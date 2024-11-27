@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-This project analyses customer data to track customer attrition rate to assist the company devise new customer retention  strategies 
+This project analyses customer data to track customer attrition rate and assist a telecom company devise new customer retention  strategies.
 
 ## Project Background
 Vertex Mobile Net. is a telecom company that provides communication services to individuals and 
