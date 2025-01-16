@@ -68,8 +68,9 @@ Customers with monthly contracts show a higher propensity to churn, possibly due
 State wide analysis revealed a high churn rate in California-CA (63.24%), particularly among customers who frequently make international calls but do not subscribe to an international plan. Specifically, 72% of these customers churned, indicating a potential gap in service offerings that meet their needs.
 
 A peculiar trend observed across various states is that churned customers tend to have a higher average number of customer service calls. However, California defies this trend; despite having the highest churn rate, it has the lowest number of customer service calls. This anomaly suggests that other factors, perhaps related to the specific needs or preferences of Californian customers, are driving churn and should be investigated further.
+ 
+![Screenshot 2025-01-16 201959](https://github.com/user-attachments/assets/5d21e48a-0126-4946-8df4-d072c2cd443b)
 
-![Screenshot 2025-01-10 130510](https://github.com/user-attachments/assets/aa7bf82a-8c85-4114-8afa-fe3c5c2b10af) 
 
 
 ## Recommendations
